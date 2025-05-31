@@ -87,6 +87,10 @@ Teaching basic data engineering and ETL concepts
 Integrating into larger MLOps or data pipeline systems
 
 🧑‍💻 Technologies Used
+
+OUTPUT:
+
+![Image](https://github.com/user-attachments/assets/c266713d-e624-473c-8930-8c1500279b5d)
 Python 3.x
 
 pandas – for data manipulation
